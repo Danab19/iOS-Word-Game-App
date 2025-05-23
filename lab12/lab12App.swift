@@ -2,7 +2,7 @@
 //  lab12App.swift
 //  lab12
 //
-//  Created by Fadi Barhoom on 12/29/24.
+//  Created by Dana Barhoom on 12/29/24.
 //
 
 import SwiftUI
