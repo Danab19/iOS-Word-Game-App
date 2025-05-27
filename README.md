@@ -28,7 +28,6 @@ This project is a simple word game built with SwiftUI. The user is given a rando
 - ContentView.swift: Main game logic and UI
 - lab12App.swift: App entry point
 - start.txt: List of possible root words (one per line)
-- lab12Tests, lab12UITests: Unit and UI tests
 
 ## Example Gameplay
 
